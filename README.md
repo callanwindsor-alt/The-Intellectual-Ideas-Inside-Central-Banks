@@ -1,2 +1,2 @@
 # The-Intellectual-Ideas-Inside-Central-Banks
-This repository has all of the Python code to replicate the paper. 
+This repository has all of the Python code (in jupyter notebooks) to replicate the paper. 
